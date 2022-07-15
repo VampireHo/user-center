@@ -16,15 +16,15 @@
  */
 package com.chunpin.usercenter.mybatis.config;
 
-import org.mybatis.spring.annotation.MapperScan;
-import org.springframework.context.annotation.Configuration;
+//import org.mybatis.spring.annotation.MapperScan;
+//import org.springframework.context.annotation.Configuration;
 
 /**
  * 使用MapperScan批量扫描所有的Mapper接口
  *
  * @author paida 派哒 zeyu.pzy@alibaba-inc.com
  */
-@Configuration
-@MapperScan("com.chunpin.usercenter.mybatis")
+//@Configuration
+//@MapperScan("com.chunpin.usercenter.mybatis")
 public class MVCMybatisDemoConfig {
 }
